@@ -6,7 +6,7 @@ Landing Page with dynamically navigation bar built with HTML, CSS and JS ( ES6 )
 
 ## Author: Amir Osama Samy Gaballa
 
-### Techs:
+### Techs
 
 1. _HTML5_
 2. _CSS3_
